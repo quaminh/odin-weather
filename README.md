@@ -1,1 +1,1 @@
-# odin-weather
+# The Odin Project - Weather API
